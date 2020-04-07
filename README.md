@@ -1,2 +1,2 @@
-# bbpsuite
+### BBPSuite
 BBPSuite - Bug Bounty Platform
