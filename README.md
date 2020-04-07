@@ -10,5 +10,5 @@ Demo vs Pro
 Installation
 --
 
-Contribuite 
+Credits and Contributors
 --
